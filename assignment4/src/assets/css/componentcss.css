@@ -1,0 +1,11 @@
+.gameContainer{
+    text-align: center;
+    margin: 20px
+}
+
+.table{
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #ff9900
+}
